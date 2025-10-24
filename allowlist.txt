@@ -47,7 +47,10 @@ analytics.google.com
 googletagmanager.com
 
 # IP Lookup Services
-ipsator.com
+||ipsator.com^
+
+# Network and Infrastructure Tools
+ping.ui.com
 
 # CDN and Infrastructure
 cloudflare.com
