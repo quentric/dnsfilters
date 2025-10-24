@@ -1,49 +1,14 @@
 # DNS Blocklist for AdGuard and PiHole
 # 
-# This list blocks known advertising, tracking, and malware domains
+# This list contains placeholder entries as the primary blocking is handled
+# by external AdGuard filter lists which provide comprehensive coverage
 # Compatible with AdGuard Home and Pi-hole
 # 
 # Format: One domain per line
 # Comments start with #
 # Last updated: 2025-10-24
 
-# Advertising Networks
-0.0.0.0 ads.google.com
-0.0.0.0 doubleclick.net
-0.0.0.0 googleadservices.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 adservice.google.com
-0.0.0.0 pagead2.googlesyndication.com
-
-# Facebook Tracking
-0.0.0.0 facebook.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 graph.facebook.com
-0.0.0.0 pixel.facebook.com
-
-# Analytics and Tracking
-0.0.0.0 google-analytics.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 mixpanel.com
-0.0.0.0 amplitude.com
-0.0.0.0 segment.com
-0.0.0.0 segment.io
-
-# Common Ad Servers
-0.0.0.0 adnxs.com
-0.0.0.0 adsrvr.org
-0.0.0.0 advertising.com
-0.0.0.0 criteo.com
-0.0.0.0 taboola.com
-0.0.0.0 outbrain.com
-
-# Mobile Ad Networks
-0.0.0.0 applovin.com
-0.0.0.0 unity3d.com
-0.0.0.0 inmobi.com
-0.0.0.0 chartboost.com
-
-# Known Malware/Phishing
-0.0.0.0 malware-example.com
-0.0.0.0 phishing-site.com
-0.0.0.0 suspicious-domain.net
+# Placeholder entries - Using external AdGuard lists for comprehensive blocking
+0.0.0.0 placeholder-ad-domain.example
+0.0.0.0 placeholder-tracking-domain.example
+0.0.0.0 placeholder-malware-domain.example

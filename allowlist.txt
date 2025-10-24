@@ -37,6 +37,18 @@ youtube.com
 ytimg.com
 ggpht.com
 
+# Firebase and Analytics (For Usage Data)
+firebase.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebase.google.com
+analytics.google.com
+googletagmanager.com
+
+# IP Lookup Services
+ipsator.com
+
 # CDN and Infrastructure
 cloudflare.com
 akamai.net
