@@ -1,0 +1,72 @@
+# DNS Allowlist for AdGuard and PiHole
+#
+# This list allows domains that might be blocked by other filters
+# but are needed for legitimate services to function properly
+# Compatible with AdGuard Home and Pi-hole
+#
+# Format: One domain per line
+# Comments start with #
+# Last updated: 2025-10-24
+
+# Windows Updates and Services
+windowsupdate.com
+update.microsoft.com
+download.microsoft.com
+wns.windows.com
+login.live.com
+
+# Apple Services
+apple.com
+icloud.com
+itunes.apple.com
+apps.apple.com
+appleid.apple.com
+
+# Amazon Services
+amazon.com
+aws.amazon.com
+s3.amazonaws.com
+cloudfront.net
+amazon-adsystem.com
+
+# Google Services (Essential)
+google.com
+googleapis.com
+gstatic.com
+youtube.com
+ytimg.com
+ggpht.com
+
+# CDN and Infrastructure
+cloudflare.com
+akamai.net
+fastly.net
+jsdelivr.net
+unpkg.com
+
+# Social Media (Essential Features)
+twitter.com
+instagram.com
+linkedin.com
+reddit.com
+twimg.com
+
+# Development and Tools
+github.com
+githubusercontent.com
+gitlab.com
+stackoverflow.com
+npmjs.com
+
+# Streaming Services
+netflix.com
+spotify.com
+twitch.tv
+hulu.com
+disneyplus.com
+
+# Email Providers
+gmail.com
+outlook.com
+yahoo.com
+protonmail.com
