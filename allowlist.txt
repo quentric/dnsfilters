@@ -49,6 +49,9 @@ googletagmanager.com
 # IP Lookup Services
 ||ipsator.com^
 
+# Messaging and Calling Services
+||udial-ipsator.ubona.com^
+
 # Network and Infrastructure Tools
 ping.ui.com
 
